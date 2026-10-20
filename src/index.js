@@ -7,5 +7,5 @@ app.whenReady()
       width: 800
     })
 
-  janela.loadFile("./public/index.html")
+  janela.loadFile("./index.html")
   })
